@@ -1,0 +1,64 @@
+.all {
+    text-align: center;
+    
+}
+
+.box {
+    
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.margin {
+    background-color: darkgray;
+    width: 120px;
+    height: 100%;
+    min-height: 1000px;
+}
+
+nav {
+    background-color: darkgrey;
+    width: 1100px;
+    height: 30px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+}
+
+section {
+    background-color: rgb(179, 177, 177);
+    width: 500px;
+    font-size: 20px;
+}
+
+article {
+    background-color: rgb(132, 131, 131);
+    width: 600px;
+    padding: 10px 10px 10px 10px;
+    
+}
+
+footer {
+    background-color: darkgrey;
+    width: 1100px;
+    height: 30px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-top: 30px;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.clear-float {
+    clear:both;
+    
+}
+
+.paige {
+    background-color: rgb(240, 238, 238);
+}
+
